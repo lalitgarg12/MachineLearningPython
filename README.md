@@ -17,4 +17,12 @@ This repository is about different Machine Learning algorithm approaches as per 
 ___
 <a id=section1></a>
 ### [Profit Prediction](./Profit%20Prediction)
+![image.png](image/Profit%20prediction.png)
+- You are the CEO of restaurant Franchise and are considering different cities for opening new outlet.
+- The chain already has trucks in various cities and you have data for profits and population from the cities.
+- You would like to use this data to help you select which city to expand to next.
+- The dataset contains in the data folder of this Project.
 
+___
+<a id=section2></a>
+### [Probability of admission](./Classification-Logistic%20Reg)
