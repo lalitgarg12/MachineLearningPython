@@ -10,3 +10,11 @@ The process of learning begins with data, such as, direct experience, or instruc
 ## Repository Overview
 This repository is about different Machine Learning algorithm approaches as per the industry practices.
 
+## Table of Contents
+- [Profit Prediction](#section1)<br>
+- [Classification - Logistic Reg](#section2)<br>
+
+___
+<a id=section1></a>
+### [Profit Prediction](./Profit Prediction)
+![image.jpg](image/Profit%20Prediction.jpg)<br><br>
