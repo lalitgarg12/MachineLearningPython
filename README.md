@@ -17,4 +17,4 @@ This repository is about different Machine Learning algorithm approaches as per 
 ___
 <a id=section1></a>
 ### [Profit Prediction](./Profit%20Prediction)
-![images.png](images/Profit%20prediction.png)<br><br>
+
