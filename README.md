@@ -22,7 +22,7 @@ ___
 - The chain already has trucks in various cities and you have data for profits and population from the cities.
 - You would like to use this data to help you select which city to expand to next.
 - The dataset contains in the data folder of this Project.
-
+- [Link for the Jupyter notebook](./Profit%20Prediction/Profit_Prediction.ipynb)
 ___
 <a id=section2></a>
 ### [Probability of admission](./Classification-Logistic%20Reg)
@@ -30,11 +30,11 @@ ___
 - Suppose you are the product manager of the factory and you have the test results for some microchips on two different tests.
 - From these two tests, you would like to determine whether the microchips should be accepted or rejected.
 - To help you make the decision, you have a dataset of test results on past microchips, from which you can build a logistic regression model.
-
+- [Link for the Jupyter notebook](./Classification-Logistic%20Reg/Prob_of_admission.ipynb)
 ___
 ### [Accepting or Rejecting Microchips based on test results](./Classification-Logistic%20Reg)
 ![image.jpg](image/microchip-test.jpg)
 - Suppose you are the product manager of the factory and you have the test results for some microchips on two different tests.
 - From these two tests, you would like to determine whether the microchips should be accepted or rejected.
 - To help you make the decision, you have a dataset of test results on past microchips, from which you can build a logistic regression model.
-
+- [Link for the Jupyter notebook](./Classification-Logistic%20Reg/Microchip_test.ipynb)
