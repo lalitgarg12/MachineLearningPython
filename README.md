@@ -39,3 +39,14 @@ ___
 - From these two tests, you would like to determine whether the microchips should be accepted or rejected.
 - To help you make the decision, you have a dataset of test results on past microchips, from which you can build a logistic regression model.
 - [Link for the Jupyter notebook](./Classification-Logistic%20Reg/Microchip_test.ipynb)
+
+___
+
+### [SVM Classification](./SVM-Classification)
+![image.png](image/svm.png)
+- We will see different examples of how SVM works.
+- On 2D Dataset, with different values of C and Sigma usign Gaussian Kernels.
+- On Trained dataset using learning best parameters from the function and cross validation.
+- Visualizing linear and non-linear decision boundaries by SVM Classification.
+- [Link for the Jupyter notebook](./SVM.ipynb)
+
